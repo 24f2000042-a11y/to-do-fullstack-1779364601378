@@ -1,0 +1,1 @@
+This modern blue todo app features responsive design, loading states, and error handling. Setup instructions: Install dependencies (`npm install`), start server (`node server.js`), and access via http://localhost:PORT (use VITE_API_URL if configured).
